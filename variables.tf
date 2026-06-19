@@ -7,7 +7,7 @@ variable "gitea_url" {
 variable "gitea_token" {
   description = "Gitea Token"
   type        = string
-  default     = "d016ebad011f06965175d912983b11a8cd29c1f1"
+  default     = "insert token here"
 }
 
 variable "gitea_repo_username" {
